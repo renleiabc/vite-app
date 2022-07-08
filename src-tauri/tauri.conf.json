@@ -56,7 +56,7 @@
         "https://releases.myapp.com/{{target}}/{{current_version}}"
       ],
       "dialog": true,
-      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEU3Q0M2MzMwRjcwQUJEMkMKUldRc3ZRcjNNR1BNNTRkYis4bTloQVk4Y2psanMzWkRjemFmYWlpYTJuVCtGQ3pYRzFjbE9pUUsK"
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDlCRDY0NEI1RDNGQUY5NDIKUldSQytmclR0VVRXbThUZnpmMlhVRDBVdlh5ODJGK28vblNoTHhrN3pMRXg2bmRTRDMrNDAyYjIK"
     },
     "windows": [
       {
